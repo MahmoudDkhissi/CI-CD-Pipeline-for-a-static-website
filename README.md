@@ -3,5 +3,4 @@
 
 
 
-Corrigé du mini projet  Gitlab-ci sur Eazytraining
 Url de l'appli concernée : https://github.com/diranetafen/static-website-example
